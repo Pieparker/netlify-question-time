@@ -1,15 +1,15 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://myurl.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "Scott Parker's Tinkerpad",
+  "url": "https://cocky-elion-4d7b67.netlify.com",
+  "description": "Question time with Scott Parker.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Question time with Scott Parker.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "id": "https://cocky-elion-4d7b67.netlify.com"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "Scott Parker",
+    "email": "scott@pieparker.com"
   }
 }
