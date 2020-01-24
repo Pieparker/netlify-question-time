@@ -9,7 +9,7 @@ const typeDefs = gql`
 const resolvers = {
   Query: {
     helloWorld: (root, args, context) => {
-      return 'This is a demonstrative GraphQL API call.'
+      return `This is a demonstrative GraphQL API call.`
     }
   }
 }
