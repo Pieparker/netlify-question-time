@@ -1,1 +1,1 @@
-# Scott Parker's tinker for Netlify
+# My Tinkerpad
